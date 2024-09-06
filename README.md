@@ -2,9 +2,8 @@
 
 The Task Management API is a Node.js application that provides CRUD (Create, Read, Update, Delete) functionalities for managing tasks and user management features. Built with Express and MongoDB, this API allows users to create tasks, update their details, retrieve tasks for a specific user, and delete tasks. It also supports user registration and login, including Google authentication.
 
-### Frontend GitHub Link: 
-```bash
-https://github.com/Prakash030/Voosh_Assessment_Frontend
+### Frontend GitHub Link : https://github.com/Prakash030/Voosh_Assessment_Frontend
+
 
 ## Features
 
