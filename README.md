@@ -36,9 +36,7 @@ To set up the project on your local machine, follow these steps:
     ```bash
     MONGODB_URI=mongodb://localhost:27017/taskdb
     PORT=3000
-    GOOGLE_CLIENT_ID=your-google-client-id
-    GOOGLE_CLIENT_SECRET=your-google-client-secret
-    SESSION_SECRET=your-session-secret
+    JSON_WEB_TOKEN_SECRET=jsonToken
 
 4. **Running the Application**
 
