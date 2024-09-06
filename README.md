@@ -49,6 +49,3 @@ To set up the project on your local machine, follow these steps:
 
     ```bash
     npm test
-
-
-
